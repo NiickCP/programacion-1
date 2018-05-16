@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1526445940 source:c:\users\nicol\desktop\nicolascapiz-1a\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"libreria.h"
+	"productos.h"
+
+1526445901 c:\users\nicol\desktop\nicolascapiz-1a\libreria.h
+
+1526445855 c:\users\nicol\desktop\nicolascapiz-1a\productos.h
+
+1526445926 source:c:\users\nicol\desktop\nicolascapiz-1a\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"libreria.h"
+	"productos.h"
+
+1526445964 source:c:\users\nicol\desktop\nicolascapiz-1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"productos.h"
+	"libreria.h"
+
